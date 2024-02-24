@@ -1,4 +1,1 @@
-{name} : {pw}eunchanpyo : eunchanpyo
-eunchanpyoyp : eunchanpyoyp
-eunchanpyohp : eunchanpyohp
-eunchanaa : eunchanaa
+eunchanpyo : eunchanpyo
